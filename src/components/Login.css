@@ -1,0 +1,57 @@
+.header-h1 {
+  padding-bottom: 10px;
+}
+.award-callout {
+  bottom: -30px;
+}
+
+.award-callout img {
+  width: 35px;
+}
+
+.tf-logo {
+  top: 40px;
+  padding-top: 60px;
+  padding-bottom: 10px;
+}
+
+.blurb-container {
+  width: 100vw;
+  position: relative;
+  top: -25px;
+  padding: 0 15px;
+}
+
+.page-container {
+  position: relative;
+  margin-top: -45px;
+}
+
+.user-form h4{
+  padding-top: 20px;
+}
+
+.user-form p {
+  margin-bottom: 10px;
+}
+
+.login-footer {
+  padding-left: 0;
+}
+
+.footer-copy {
+  position: relative;
+  margin-top: 35px;
+  width: 100%;
+}
+
+/* .blurb-container {
+  position: absolute;
+  top: 271px;
+  right: 0;
+  width: 50vw;
+  padding: 0 15px;
+} */
+
+@media screen and (max-width: 880px){
+}

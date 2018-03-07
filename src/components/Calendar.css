@@ -1,0 +1,49 @@
+#calendar-container {
+  top: 25px;
+}
+
+.calendar-container {
+  border: 1px solid #E6EEFF;
+  overflow-x: scroll;
+  width: 100%;
+  padding: 0 10px 20px 10px;
+  white-space: nowrap;
+  position: relative;
+}
+
+.page-container-calendar {
+  margin-top: 0;
+}
+
+.date-container {
+  position: relative;
+  text-align: center;
+  width: 180px;
+  display: inline-block;
+  height: 100%;
+  margin-top: 0;
+  vertical-align: top;
+  margin: 0 10px;
+}
+
+.time {
+  margin: 7.5px 0;
+}
+
+.continue {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.button__mini:focus {
+  background-color: rgb(75, 183, 139);
+  outline: 0;
+}
+
+.button__disabled:focus {
+  background-color: #8E939A
+}
+
+.onboarding-page-container h4 {
+  padding: 15px;
+}
